@@ -35,6 +35,11 @@ custom_proxy_group=🔯 故障转移`fallback`.*`http://www.gstatic.com/generate
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`[]♻️ 自动选择`[]🔯 故障转移`.*
+custom_proxy_group= HK`select`Hong Kong`香港`港`HK
+custom_proxy_group= SG`select`Singapore`新加坡`狮城`新`SG
+custom_proxy_group= TW`select`Taiwan`台湾`台`TW
+custom_proxy_group= JP`select`Japan`日本`JP
+custom_proxy_group= US`select`United States`美国`美`US
 
 enable_rule_generator=true
 overwrite_original_rules=true
